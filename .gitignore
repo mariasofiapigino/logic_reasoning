@@ -1,0 +1,11 @@
+# PyCharm settings
+.idea/
+
+# C extensions
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
